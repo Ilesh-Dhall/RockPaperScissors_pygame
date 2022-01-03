@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors_game
+# RockPaperScissors_game
 Rock-Paper-Scissors Game made in python with pygame library.
 
 This game is made using python 3.9.6 and pygame 2.0.1.
