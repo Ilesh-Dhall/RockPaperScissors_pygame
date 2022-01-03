@@ -1,0 +1,9 @@
+# Rock-Paper-Scissors_game
+Rock-Paper-Scissors Game made in python with pygame library.
+
+This game is made using python 3.9.6 and pygame 2.0.1.
+To run this game you need to have a newer version of python 3 installed on your computer with the newest version of pygame library.
+
+Be sure that the python script is placed along with the Asset folder to run it.
+
+Enjoy playing... :)
