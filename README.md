@@ -2,7 +2,7 @@
 
 Classic rock-paper-scissors game developed entirely in Python.
 
-~ Features -\n 
+~ Features:
 User can play infinitely against the computer.
 User needs to click on the picture to choose their move.
 
