@@ -25,7 +25,6 @@ class Game:
 
         self.comp_turns = [ROCK_IMG, PAPER_IMG, SCISSORS_IMG]
         self.comp_turn = random.choice(self.comp_turns)
-        # self.comp_turn = ROCK_IMG
 
         self.player_turns = ["ROCK", "PAPER", "SCISSORS"]
         self.player_turn = ""
